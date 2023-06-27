@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Maximillian30
+- 👋 Hi, I’m @Maximillian30 a Github campus expert.
 - 👀 I’m interested in Cloud and DevOps Engineering, Agile and Scrum
-- 🌱 I’m currently learning CLoud and DevOps engineering at Google and Microsoft
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning CLoud and DevOps engineering through online resources.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me caritasolivet30@gmail.com
 
 <!---
